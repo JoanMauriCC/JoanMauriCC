@@ -35,20 +35,13 @@ ESTADO ...... ● ACTIVO
 ## `// MONITOREO`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoanMauriCC&show_icons=true&hide_border=false&bg_color=0a0710&title_color=8cff5a&text_color=e6edf3&icon_color=ff7a1a&border_color=6b3fa0&custom_title=ESTADO%20DEL%20PILOTO" height="170" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanMauriCC&layout=compact&bg_color=0a0710&title_color=8cff5a&text_color=e6edf3&border_color=6b3fa0&custom_title=SYNC%20RATIO" height="170" alt="Lenguajes">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=JoanMauriCC&background=0a0710&border=6b3fa0&stroke=6b3fa0&ring=8cff5a&fire=ff7a1a&currStreakNum=ff7a1a&currStreakLabel=8cff5a&sideNums=e6edf3&sideLabels=c9a8ff&dates=9a8fb3" alt="Racha de commits">
 </p>
 
-## `// VALOR DE MERCADO`
+## `// ARSENAL`
 
 <p align="center">
-  <a href="https://transfergit.com/JoanMauriCC">
-    <img src="https://transfergit.com/api/og/JoanMauriCC/readme" alt="Transfergit card">
-  </a>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,git,github,vscode,visualstudio&theme=dark" alt="Tecnologías">
 </p>
 
 ---
