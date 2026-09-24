@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=8CFF5A&center=true&vCenter=true&width=640&lines=%3E+desarrollando+sistemas%2C+un+commit+a+la+vez_;%3E+estudiante+de+Sistemas+de+Informaci%C3%B3n_;%3E+C%23+%C2%B7+SQL+Server+%C2%B7+JavaScript_" alt="Texto animado">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=8CFF5A&center=true&vCenter=true&width=640&lines=%3E+desarrollando+sistemas%2C+un+commit+a+la+vez_;%3E+estudiante+de+Sistemas+de+Informaci%C3%B3n_;%3E+Laravel+%C2%B7+MySQL+%C2%B7+Docker+%C2%B7+JavaScript_" alt="Texto animado">
 </p>
 
 ---
@@ -18,8 +18,8 @@
 
 ```text
 NOMBRE ...... Joan
-BASE ........ FaCENA · UNNE
-CARRERA ..... Lic. en Sistemas de Información
+CARRERA ..... Estudiante de Lic. en Sistemas de Información · UNNE
+TÍTULO ...... Técnico en Desarrollo de Software · ISCC
 UBICACIÓN ... Argentina
 ESTADO ...... ● ACTIVO
 ```
@@ -41,7 +41,7 @@ ESTADO ...... ● ACTIVO
 ## `// ARSENAL`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,git,github,vscode,visualstudio&theme=dark" alt="Tecnologías">
+  <img src="https://skillicons.dev/icons?i=docker,github,mysql,laravel,html,css,sass,js&theme=dark" alt="Tecnologías">
 </p>
 
 ---
