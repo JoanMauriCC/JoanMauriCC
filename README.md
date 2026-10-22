@@ -18,10 +18,21 @@
 
 ```text
 NOMBRE ...... Joan
+UNIDAD ...... JAM-01
+ROL ......... Desarrollador Full Stack
 CARRERA ..... Estudiante de Lic. en Sistemas de Información · UNNE
 TÍTULO ...... Técnico en Desarrollo de Software · ISCC
-UBICACIÓN ... Argentina
-ESTADO ...... ● ACTIVO
+UBICACIÓN ... Corrientes, Argentina
+PERFIL ...... Geek de nacimiento
+INTERESES ... Tecnología · Anime y manga · Videojuegos · Ciencia ficción
+ESTADO ...... ● DISPONIBLE PARA TRABAJAR
+
+SINCRONÍA ... SQL           ▓▓▓▓▓▓▓▓░░  80%
+              HTML/CSS      ▓▓▓▓▓▓▓░░░  75%
+              PHP/Laravel   ▓▓▓▓▓▓▓░░░  70%
+              Java          ▓▓▓▓▓▓░░░░  65%
+              C#            ▓▓▓▓▓▓░░░░  65%
+              JavaScript    ▓▓▓▓▓▓░░░░  60%
 ```
 
 ## `// MISIONES`
@@ -68,4 +79,3 @@ OBJETIVO .... DevSecOps
   <br>
   <code>END OF TRANSMISSION</code>
 </p>
-
