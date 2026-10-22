@@ -29,9 +29,8 @@ ESTADO ...... ● ACTIVO
 | MISIÓN | PROYECTO | DESCRIPCIÓN | STACK |
 |:---:|---|---|---|
 | **01** | [**TiendaUNNE Desktop**](https://github.com/JoanMauriCC/TiendaUNNE) | App de escritorio para administrar una tienda, con roles de usuario (Taller de Programación II) | C# · SQL Server |
-| **02** | [**TiendaUNNE Web**](https://github.com/edwardevok/ProyectoTiendaUnne) `COLABORADOR` | Aplicación web para administrar una tienda (Taller de Programación I) | PHP · Laravel · MySQL |
-| **03** | **Intensa Jeans** `CLASIFICADO` | Sistema de gestión para una tienda de jeans (Bases de Datos I) | SQL Server |
-| **04** | **Quiz Helper** `CLASIFICADO` | Extensión de Chrome que responde preguntas desde un PDF | JavaScript |
+| **02** | [**TiendaUNNE Web**](https://github.com/edwardevok/ProyectoTiendaUnne) `COLABORADOR` | Aplicación web para administrar una tienda (Taller de Programación I) | PHP · Laravel · SQLite |
+| **03** | [**Intensa Jeans**](https://github.com/krushodev/proyecto-db) `COLABORADOR` | Base de datos para una tienda de jeans con venta en local y online (Bases de Datos I) | SQL Server |
 
 ## `// MONITOREO`
 
