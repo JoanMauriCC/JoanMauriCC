@@ -56,7 +56,7 @@ OBJETIVO .... DevSecOps
 ## `// CONTACTO`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO">
+  <a href="https://www.linkedin.com/in/joanmauri/">
     <img src="https://img.shields.io/badge/LinkedIn-Joan%20Mauri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
