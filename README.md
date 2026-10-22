@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=8CFF5A&center=true&vCenter=true&width=640&lines=%3E+desarrollando+sistemas%2C+un+commit+a+la+vez_;%3E+estudiante+de+Sistemas+de+Informaci%C3%B3n_;%3E+Laravel+%C2%B7+MySQL+%C2%B7+Docker+%C2%B7+JavaScript_" alt="Texto animado">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=8CFF5A&center=true&vCenter=true&width=640&lines=%3E+desarrollando+sistemas%2C+un+commit+a+la+vez_;%3E+estudiante+de+Sistemas+de+Informaci%C3%B3n_;%3E+Laravel+%C2%B7+MySQL+%C2%B7+Java+%C2%B7+JavaScript_" alt="Texto animado">
 </p>
 
 ---
@@ -31,6 +31,15 @@ ESTADO ...... ● ACTIVO
 | **01** | [**TiendaUNNE Desktop**](https://github.com/JoanMauriCC/TiendaUNNE) | App de escritorio para administrar una tienda, con roles de usuario (Taller de Programación II) | C# · SQL Server |
 | **02** | [**TiendaUNNE Web**](https://github.com/edwardevok/ProyectoTiendaUnne) `COLABORADOR` | Aplicación web para administrar una tienda (Taller de Programación I) | PHP · Laravel · SQLite |
 | **03** | [**Intensa Jeans**](https://github.com/krushodev/proyecto-db) `COLABORADOR` | Base de datos para una tienda de jeans con venta en local y online (Bases de Datos I) | SQL Server |
+| **04** | [**Bases de Datos I · SQL**](https://github.com/JoanMauriCC/Bases_De_Datos_1_UNNE) | Ejercicios resueltos de las guías prácticas de Bases de Datos I (UNNE) | SQL Server |
+
+## `// EN FORMACIÓN`
+
+```text
+BOOTCAMP .... Devlights 5.0 · Data Cloud (AWS · SQL · Python · Docker) · hasta dic 2026
+COMUNIDAD ... jemjaf DevOps y Cloud · curso "DevOps desde Cero"
+OBJETIVO .... DevSecOps
+```
 
 ## `// MONITOREO`
 
@@ -41,7 +50,15 @@ ESTADO ...... ● ACTIVO
 ## `// ARSENAL`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,github,mysql,laravel,html,css,sass,js&theme=dark" alt="Tecnologías">
+  <img src="https://skillicons.dev/icons?i=java,cs,php,laravel,js,nodejs,py,html,css,bootstrap,mysql,git,github,discord,notion,figma&theme=dark&perline=8" alt="Tecnologías">
+</p>
+
+## `// CONTACTO`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU-USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-Joan%20Mauri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
@@ -51,3 +68,4 @@ ESTADO ...... ● ACTIVO
   <br>
   <code>END OF TRANSMISSION</code>
 </p>
+
